@@ -2,6 +2,9 @@
   
     CrkDevelopment
     Created in 2021
-   #Html-footer-design
+
+#How To Download
+
+ git clone https://github.com/crkofficial/SteelBlue-Footer-design.git
 
 
