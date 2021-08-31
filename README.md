@@ -5,6 +5,6 @@
 
 #How To Download
 
- git clone https://github.com/crkofficial/SteelBlue-Footer-design.git
+    git clone https://github.com/crkofficial/SteelBlue-Footer-design.git
 
 
